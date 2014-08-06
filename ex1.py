@@ -2,6 +2,8 @@
 # If I was in Mexico, I might have to use the following line (with the # included, that line is not intended to be a comment). 
 # -*- coding: utf-8 -*-
 
+print "Hola! Estamos desde la compu de Gaby con un teclado medio aca!"
+
 print "Hello World!"
 print "Hello Again"
 print "I like typing this."
